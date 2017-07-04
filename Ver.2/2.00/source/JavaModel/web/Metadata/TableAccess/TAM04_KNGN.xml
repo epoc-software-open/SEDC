@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="b492e23b-20e8-4aab-93ce-9c07d9329f99">
+  <Table name="TAM04_KNGN" />
+  <Table name="TAM05_APPLI_KNGN" />
+  <Table name="TAM07_USER" />
+  <Table name="TBM07_AUTH_BEHAVIOR" />
+</Dependencies>

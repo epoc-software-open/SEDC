@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="99ee82d4-b135-4e81-982c-8c18151b9ec5">
+  <Table name="TBM02_CDISC_DOMAIN" />
+  <Table name="TAM06_MSG" />
+  <Table name="TBM01_SYSTEM" />
+  <Table name="TBM03_CDISC_ITEM" />
+</Dependencies>

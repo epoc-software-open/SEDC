@@ -1,0 +1,21 @@
+current_obj_i(4,proc,157).
+ 
+called_tree_i(1,157,14,7).
+called_tree_i(1,157,1,3).
+called_tree_i(1,157,1,4).
+called_tree_i(1,157,1,5).
+called_tree_i(1,157,13,7).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b402_pc16_crf_ref_chk,[ b402_pc16_crf_ref_chk__default ],[],[ 'SdtA_CHK_INFO_SDT_A_CHK_INFO_SDTItem','StructSdtA_CHK_INFO_SDT_A_CHK_INFO_SDTItem','SdtA_CHK_RESULT_SDT_A_CHK_RESULT_SDTItem','StructSdtA_CHK_RESULT_SDT_A_CHK_RESULT_SDTItem','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','SdtA_RESULT_MSG_SDT_A_RESULT_MSG_SDTItem','StructSdtA_RESULT_MSG_SDT_A_RESULT_MSG_SDTItem','GxObjectCollection' ],157).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

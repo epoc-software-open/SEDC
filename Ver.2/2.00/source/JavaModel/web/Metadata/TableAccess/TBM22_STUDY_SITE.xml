@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="2c7294d0-ad5d-4f93-bc91-12e3f652028b">
+  <Table name="TAM08_SITE" />
+  <Table name="TBM21_STUDY" />
+  <Table name="TBM22_STUDY_SITE" />
+</Dependencies>

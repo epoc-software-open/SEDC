@@ -1,0 +1,18 @@
+current_obj_i(4,proc,224).
+ 
+called_tree_i(1,224,1,9).
+called_tree_i(1,224,1,223).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b702_pc05_ref_crf_value_grp,[ b702_pc05_ref_crf_value_grp__default ],[],[ 'SdtB792_SD01_CRF','StructSdtB792_SD01_CRF','SdtB792_SD02_CRF_RESULT_B792_SD02_CRF_RESULTItem','StructSdtB792_SD02_CRF_RESULT_B792_SD02_CRF_RESULTItem','GxObjectCollection' ],224).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,17 @@
+current_obj_i(4,web,84).
+ 
+called_tree_i(13,84,1,249).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(webpanel1,[],[ webpanel1_impl ],[ 'GxWebStd','SdtB716_SD2_DOM_MAP_B716_SD2_DOM_MAPItem','StructSdtB716_SD2_DOM_MAP_B716_SD2_DOM_MAPItem','SdtB716_SD3_DOM_VAR_B716_SD3_DOM_VARItem','StructSdtB716_SD3_DOM_VAR_B716_SD3_DOM_VARItem','GxObjectCollection' ],84).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

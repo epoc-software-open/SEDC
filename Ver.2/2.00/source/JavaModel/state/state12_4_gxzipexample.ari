@@ -1,0 +1,19 @@
+current_obj_i(4,web,71).
+ 
+called_tree_i(13,71,14,4).
+called_tree_i(13,71,13,1).
+ 
+ 
+ij_main_object(gxzipexample,'GXzip Example','','""','').
+ 
+ 
+ 
+ 
+ij_object_dependency(gxzipexample,[],[ gxzipexample_impl ],[ 'GxWebStd','SdtGXzip','StructSdtGXzip','GxObjectCollection' ],71).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

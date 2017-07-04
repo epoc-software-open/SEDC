@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="df705d8a-8cec-4cc5-9a0a-a9ec40c67484">
+  <Table name="TBM41_CRF_NCM_MAP" />
+  <Table name="TAM06_MSG" />
+  <Table name="TBM01_SYSTEM" />
+</Dependencies>

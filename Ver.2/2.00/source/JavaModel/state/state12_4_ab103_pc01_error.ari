@@ -1,0 +1,19 @@
+current_obj_i(4,proc,191).
+ 
+called_tree_i(1,191,13,7).
+ 
+is_webproc_i(ab103_pc01_error).
+ 
+ij_main_object(ab103_pc01_error,ƒGƒ‰[ˆ—,'','""','HTTP').
+ 
+ 
+ 
+ 
+ij_object_dependency(ab103_pc01_error,[],[ ab103_pc01_error_impl ],[ 'GxWebStd' ],191).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="fad3d1ff-6dd9-4f71-8bc4-e3eaec7503ae">
+  <Table name="TBT01_SUBJECT" />
+  <Table name="TBT14_CRF_MEMO" />
+  <Table name="TBT15_CRF_MEMO_LOC" />
+</Dependencies>

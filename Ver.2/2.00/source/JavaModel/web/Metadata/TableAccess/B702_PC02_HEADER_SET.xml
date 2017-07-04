@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="af139742-0b53-48e5-976b-ea5d177238e2">
+  <Table name="TBM01_SYSTEM" />
+  <Table name="TBM21_STUDY" />
+  <Table name="TBM31_CRF" />
+  <Table name="TBT01_SUBJECT" />
+  <Table name="TBM08_AUTH_INP_LVL" />
+  <Table name="TBT02_CRF" />
+  <Table name="TBM44_CRF_VISIT" />
+  <Table name="TAM06_MSG" />
+  <Table name="TAM04_KNGN" />
+</Dependencies>

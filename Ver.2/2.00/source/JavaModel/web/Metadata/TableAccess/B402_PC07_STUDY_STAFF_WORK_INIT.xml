@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="e1759102-1bad-40a7-9675-4ff7d7b54e86">
+  <Table name="TAM04_KNGN" />
+  <Table name="TAM07_USER" />
+  <Table name="TBM23_STUDY_STAFF" />
+  <Table name="TAM06_MSG" />
+  <Table name="TBW01_FREE_WORK" />
+</Dependencies>

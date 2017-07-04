@@ -1,0 +1,269 @@
+#header
+{
+    margin-top: 20px;
+}
+.main-layout
+{
+    margin-right: auto;
+    margin-left: auto;
+    width: 1030px;
+}
+.box
+{
+    border: 1px solid #C3C3C3;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    max-height: 10000px;
+}
+.box .box-title
+{
+    cursor:pointer;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: #000000;
+    background-image: linear-gradient(bottom, rgb(12,12,12) 40%, rgb(65,65,65) 100%);
+    background-image: -o-linear-gradient(bottom, rgb(12,12,12) 40%, rgb(65,65,65) 100%);
+    background-image: -moz-linear-gradient(bottom, rgb(12,12,12) 40%, rgb(65,65,65) 100%);
+    background-image: -webkit-linear-gradient(bottom, rgb(12,12,12) 40%, rgb(65,65,65) 100%);
+    background-image: -ms-linear-gradient(bottom, rgb(12,12,12) 40%, rgb(65,65,65) 100%);
+    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.4, rgb(12,12,12)), color-stop(1, rgb(65,65,65)));
+}
+.box .box-title h1
+{
+    font-size: 12px;
+    font-family: Trebuchet MS;
+    font-weight: bold;
+    color: white;
+    margin: 0;
+    padding: 0 15px;
+    height: 32px;
+    line-height: 32px;
+    vertical-align: middle;
+    background-image: url(minus.png);
+    background-repeat: no-repeat;
+    background-position: 99% center;
+}
+.box-fx
+{
+    -moz-transition: max-height .5s ease-in-out;
+    -webkit-transition: max-height .5s ease-in-out;
+    -ms-transition: max-height .5s ease-in-out;
+    transition: max-height .5s ease-in-out;
+}
+.box-collapsed
+{
+    max-height: 32px !important;
+}
+.box-collapsed .box-title h1
+{
+    background-image: url(plus.png);
+}
+#kbn-box
+{
+}
+#kbn-box .qrcode-box
+{
+    float: left;
+    margin: 10px;
+}
+#kbn-box .download-box
+{
+    float: right;
+    margin: 10px;
+}
+#kbn-box .download-box a
+{
+    background-color: black;
+    background-image: url("download-kbn.png");
+    background-image: url("download-kbn.png"), linear-gradient(bottom, rgb(12,12,12) 40%, rgb(65,65,65) 100%);
+    background-image: url("download-kbn.png"), -o-linear-gradient(bottom, rgb(12,12,12) 40%, rgb(65,65,65) 100%);
+    background-image: url("download-kbn.png"), -moz-linear-gradient(bottom, rgb(12,12,12) 40%, rgb(65,65,65) 100%);
+    background-image: url("download-kbn.png"), -webkit-linear-gradient(bottom, rgb(12,12,12) 40%, rgb(65,65,65) 100%);
+    background-image: url("download-kbn.png"), -ms-linear-gradient(bottom, rgb(12,12,12) 40%, rgb(65,65,65) 100%);
+    background-image: url("download-kbn.png"), -webkit-gradient( 	            linear, 	            left bottom, 	            left top, 	            color-stop(0.4, rgb(12,12,12)), 	            color-stop(1, rgb(65,65,65))             );
+    background-position: 4px center, 0 0;
+    background-repeat: no-repeat, repeat;
+    border-radius: 8px 8px 8px 8px;
+    color: white;
+    display: block;
+    font-family: Trebuchet MS;
+    font-size: 11px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-top: 5px;
+    padding-bottom: 3px;
+    padding-left: 25px;
+    padding-top: 3px;
+    text-decoration: none;
+    width: 80px;
+    opacity: .9;
+}
+#kbn-box .download-box a:hover
+{
+    opacity: 1;
+}
+#kbn-box .download-box header h1
+{
+    font-size: 12px;
+    font-family: Trebuchet MS;
+    font-weight: bold;
+    color: #333;
+    vertical-align: middle;
+    margin: 0;
+}
+#kbn-qrcode-url
+{
+    clear:both;
+    color: #555;
+    font-family: Trebuchet MS;
+    font-size: 12px;
+    margin-left: 10px;
+}
+#kbn-qrcode-url strong
+{
+    margin-right: 5px;
+    color: #333;
+}
+.box-disabled
+{
+    display:none;
+}
+.qrcode
+{
+    max-width: 100px;
+    -moz-transition: max-width .5s ease-in-out;
+    -webkit-transition: max-width .5s ease-in-out;
+    -ms-transition: max-width .5s ease-in-out;
+    transition: max-width .5s ease-in-out;
+}
+.qrcode-link
+{
+    color: #333;
+    font-family: Trebuchet MS;
+    font-size: 11px;
+}
+.qrcode-zoom
+{
+    margin-left: 10px;
+    opacity: 0;
+    cursor: pointer;
+    -moz-transition: opacity .5s ease-in-out;
+    -webkit-transition: opacity .5s ease-in-out;
+    -ms-transition: opacity .5s ease-in-out;
+    transition: opacity .5s ease-in-out;
+    vertical-align: bottom;
+}
+.qrcode-zoom img
+{
+    vertical-align: bottom;
+}
+.qrcode-box:hover .qrcode-zoom
+{
+    opacity: 1;
+}
+#apps-matrix
+{
+    width: 990px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+#apps-matrix tr
+{
+    border-bottom: 1px solid #c3c3c3;
+    padding: 0 20px;
+    height. 121px;
+}
+#apps-matrix tbody tr:last-child, #apps-matrix thead tr:first-child
+{
+    border-bottom: 0;
+}
+#apps-matrix tbody tr:hover
+{
+    background-image: linear-gradient(bottom, rgb(239,240,235) 45%, rgb(254,255,252) 93%);
+    background-image: -o-linear-gradient(bottom, rgb(239,240,235) 45%, rgb(254,255,252) 93%);
+    background-image: -moz-linear-gradient(bottom, rgb(239,240,235) 45%, rgb(254,255,252) 93%);
+    background-image: -webkit-linear-gradient(bottom, rgb(239,240,235) 45%, rgb(254,255,252) 93%);
+    background-image: -ms-linear-gradient(bottom, rgb(239,240,235) 45%, rgb(254,255,252) 93%);
+    background-image: -webkit-gradient( 	            linear, 	            left bottom, 	            left top, 	            color-stop(0.45, rgb(239,240,235)), 	            color-stop(0.93, rgb(254,255,252))             );
+}
+#apps-matrix td
+{
+    text-align: center;
+    font-size: 16px;
+    font-family: Trebuchet MS;
+    font-weight: bold;
+    color: #333;
+    padding: 10px 0;
+}
+#apps-matrix tr td:first-child
+{
+    width: 20%;
+}
+#apps-matrix .qrcode
+{
+    vertical-align: middle;
+    font-size: 11px;
+}
+#apps-matrix .qrcode-box
+{
+    margin-right: -26px;
+    width: auto;
+    -moz-transition: opacity .8s ease-in-out;
+    -webkit-transition: opacity .8s ease-in-out;
+    -ms-transition: opacity .8s ease-in-out;
+    transition: opacity .8s ease-in-out;
+}
+a img
+{
+    border: 0;
+}
+.link-list
+{
+    padding: 0;
+    margin: 20px;
+}
+.link-list li
+{
+    list-style: none;
+}
+.link-list a
+{
+    font-size: 12px;
+    font-family: Trebuchet MS;
+    text-decoration: none;
+    color: #333;
+    background-repeat:no-repeat;
+    padding: 1px 0 1px 20px;
+}
+.link-list a:hover
+{
+    text-decoration: underline;
+}
+
+.obj-class-0
+{
+    background-image: url(transaction.ico);
+}
+.obj-class-1
+{
+    background-image: url(procedure.ico);
+}
+.obj-class-2
+{
+    background-image: url(report.ico);
+}
+.obj-class-12
+{
+    background-image: url(prompt.ico);
+}
+.obj-class-13
+{
+    background-image: url(webpanel.ico);
+}
+.obj-class-17
+{
+    background-image: url(mbr.ico);
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="cd8e77fa-2f3a-4065-abfe-a75ddd067c45">
+  <Table name="TAM04_KNGN" />
+  <Table name="TBM01_SYSTEM" />
+  <Table name="TBM32_CRF_ITEM" />
+  <Table name="TBM33_CRF_COND" />
+  <Table name="TBM35_CRF_ITEM_AUTH" />
+  <Table name="TBT12_CRF_RESULT" />
+  <Table name="TAM06_MSG" />
+</Dependencies>

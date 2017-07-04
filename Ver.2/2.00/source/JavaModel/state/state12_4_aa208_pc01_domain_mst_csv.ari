@@ -1,0 +1,25 @@
+current_obj_i(4,proc,236).
+ 
+called_tree_i(1,236,1,3).
+called_tree_i(1,236,1,4).
+called_tree_i(1,236,1,5).
+called_tree_i(1,236,1,9).
+called_tree_i(1,236,1,58).
+called_tree_i(1,236,1,215).
+called_tree_i(1,236,13,7).
+ 
+is_webproc_i(aa208_pc01_domain_mst_csv).
+ 
+ij_main_object(aa208_pc01_domain_mst_csv,ドメインマスタCSV出力処理,'','""','HTTP').
+ 
+ 
+ 
+ 
+ij_object_dependency(aa208_pc01_domain_mst_csv,[ aa208_pc01_domain_mst_csv__default ],[ aa208_pc01_domain_mst_csv_impl ],[ 'GxWebStd','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','SdtA812_SD01_CSV_OUTPUT_A812_SD01_CSV_OUTPUTItem','StructSdtA812_SD01_CSV_OUTPUT_A812_SD01_CSV_OUTPUTItem','GxObjectCollection' ],236).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

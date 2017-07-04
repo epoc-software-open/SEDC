@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="a61c2046-8c5b-4202-befd-22e2fb7d8ead">
+  <Table name="TBM21_STUDY" />
+  <Table name="TBM24_MAP_ITEM" />
+</Dependencies>

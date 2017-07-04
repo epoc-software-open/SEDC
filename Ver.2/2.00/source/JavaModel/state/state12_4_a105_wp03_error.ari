@@ -1,0 +1,18 @@
+current_obj_i(4,web,8).
+ 
+called_tree_i(13,8,13,10).
+called_tree_i(13,8,13,11).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(a105_wp03_error,[],[ a105_wp03_error_impl ],[ 'GxWebStd','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','GxObjectCollection' ],8).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

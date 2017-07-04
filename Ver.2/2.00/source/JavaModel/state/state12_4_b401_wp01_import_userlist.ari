@@ -1,0 +1,26 @@
+current_obj_i(4,web,42).
+ 
+called_tree_i(13,42,1,3).
+called_tree_i(13,42,1,4).
+called_tree_i(13,42,1,5).
+called_tree_i(13,42,1,6).
+called_tree_i(13,42,1,50).
+called_tree_i(13,42,1,112).
+called_tree_i(13,42,1,129).
+called_tree_i(13,42,13,7).
+called_tree_i(13,42,13,10).
+called_tree_i(13,42,13,11).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b401_wp01_import_userlist,[ b401_wp01_import_userlist__default ],[ b401_wp01_import_userlist_impl ],[ 'GxWebStd','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','GxObjectCollection' ],42).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="ec511035-2d2e-4f93-8829-e162a1174d5a">
+  <Table name="TBM21_STUDY" />
+  <Table name="TBM31_CRF" />
+  <Table name="TBW03_CRF_SEARCH" />
+</Dependencies>

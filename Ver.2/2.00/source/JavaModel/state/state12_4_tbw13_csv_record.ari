@@ -1,0 +1,17 @@
+current_obj_i(4,trn,50).
+ 
+called_tree_i(0,50,13,1).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbw13_csv_record,[ tbw13_csv_record__default ],[ tbw13_csv_record_impl ],[ 'GxWebStd' ],50).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,17 @@
+current_obj_i(4,proc,5).
+ 
+called_tree_i(1,5,1,3).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(a401_pc01_login_check,[],[],[ 'SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','GxObjectCollection' ],5).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

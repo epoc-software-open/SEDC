@@ -1,0 +1,16 @@
+current_obj_i(4,web,3).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(promptmasterpage,[],[ promptmasterpage_impl ],[ 'GxWebStd' ],3).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="9087cbde-be44-40cf-93b8-2e8abf0fefd1">
+  <Table name="TBM33_CRF_COND" />
+  <Table name="TAM06_MSG" />
+  <Table name="TAS01_CDNM" />
+  <Table name="TBM32_CRF_ITEM" />
+  <Table name="TBT12_CRF_RESULT" />
+  <Table name="TBM01_SYSTEM" />
+  <Table name="TBM21_STUDY" />
+  <Table name="TBM22_STUDY_SITE" />
+  <Table name="TBM23_STUDY_STAFF" />
+  <Table name="TBM31_CRF" />
+  <Table name="TBM24_MAP_ITEM" />
+  <Table name="TBM25_SEL_LIST" />
+</Dependencies>

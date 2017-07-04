@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="e3d3a9ec-19f1-464d-9763-b2265396687e">
+  <Table name="TAM04_KNGN" />
+  <Table name="TAM07_USER" />
+  <Table name="TAM08_SITE" />
+  <Table name="TBT01_SUBJECT" />
+  <Table name="TBT14_CRF_MEMO" />
+  <Table name="TAM06_MSG" />
+  <Table name="TBM01_SYSTEM" />
+</Dependencies>

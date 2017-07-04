@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="52acc468-4aec-46fa-b6e6-16e63b760c42">
+  <Table name="TBW01_FREE_WORK" />
+  <Table name="TBM01_SYSTEM" />
+</Dependencies>

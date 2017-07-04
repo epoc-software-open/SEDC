@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="f7d65cbd-ac4c-4e23-9a46-cafa71d32713">
+  <Table name="TAM06_MSG" />
+  <Table name="TBW01_FREE_WORK" />
+</Dependencies>

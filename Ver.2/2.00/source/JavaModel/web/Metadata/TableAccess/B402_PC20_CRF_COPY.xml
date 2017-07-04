@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="77d2511c-fc3b-4019-a169-f9dfd6ddb2ea">
+  <Table name="TBM31_CRF" />
+  <Table name="TBM32_CRF_ITEM" />
+  <Table name="TBM33_CRF_COND" />
+  <Table name="TBM41_CRF_NCM_MAP" />
+  <Table name="TBM37_CRF_DOM_MAP" />
+  <Table name="TBM34_CRF_AUTH" />
+  <Table name="TBM35_CRF_ITEM_AUTH" />
+  <Table name="TBM36_CRF_SELECT" />
+  <Table name="TAM06_MSG" />
+  <Table name="TBM21_STUDY" />
+  <Table name="TBW03_CRF_SEARCH" />
+</Dependencies>

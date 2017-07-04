@@ -1,0 +1,23 @@
+current_obj_i(4,trn,9).
+ 
+called_tree_i(0,9,1,1).
+called_tree_i(0,9,1,3).
+called_tree_i(0,9,1,8).
+called_tree_i(0,9,1,9).
+called_tree_i(0,9,1,10).
+called_tree_i(0,9,13,1).
+called_tree_i(0,9,13,7).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tam05_appli_kngn_bc,[ tam05_appli_kngn_bc__default ],[],[ 'GxWebStd','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtMessages_Message','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','SdtTAM05_APPLI_KNGN','StructSdtTAM05_APPLI_KNGN','StructSdtMessages_Message','GxObjectCollection','GxSilentTrnGridCollection' ],9).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

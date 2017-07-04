@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="5d9c0640-7c76-4507-9814-a673ec706d3e">
+  <Table name="TBT02_CRF" />
+  <Table name="TBT11_CRF_HISTORY" />
+  <Table name="TBT12_CRF_RESULT" />
+  <Table name="TBT13_CRF_RES_HIS" />
+  <Table name="TAM06_MSG" />
+  <Table name="TBM32_CRF_ITEM" />
+  <Table name="TBW14_CRF_SDT_WORK" />
+  <Table name="TBM01_SYSTEM" />
+  <Table name="TBM21_STUDY" />
+  <Table name="TBM31_CRF" />
+  <Table name="TBT01_SUBJECT" />
+  <Table name="TBM08_AUTH_INP_LVL" />
+  <Table name="TBM44_CRF_VISIT" />
+  <Table name="TAM04_KNGN" />
+</Dependencies>

@@ -1,0 +1,19 @@
+current_obj_i(4,proc,221).
+ 
+called_tree_i(1,221,1,3).
+called_tree_i(1,221,1,9).
+called_tree_i(1,221,1,122).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b718_pc01_wktbl_sweep,[ b718_pc01_wktbl_sweep__default ],[],[ 'SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','GxObjectCollection' ],221).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

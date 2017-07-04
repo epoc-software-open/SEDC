@@ -1,0 +1,16 @@
+current_obj_i(4,proc,40).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(a815_pc02_file_upload,[],[],[ 'SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','GxObjectCollection' ],40).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

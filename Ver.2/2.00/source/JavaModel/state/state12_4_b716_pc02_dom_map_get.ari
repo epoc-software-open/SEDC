@@ -1,0 +1,18 @@
+current_obj_i(4,proc,249).
+ 
+called_tree_i(1,249,1,3).
+called_tree_i(1,249,13,9).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b716_pc02_dom_map_get,[ b716_pc02_dom_map_get__default ],[],[ 'SdtB716_SD2_DOM_MAP_B716_SD2_DOM_MAPItem','StructSdtB716_SD2_DOM_MAP_B716_SD2_DOM_MAPItem','SdtB716_SD3_DOM_VAR_B716_SD3_DOM_VARItem','StructSdtB716_SD3_DOM_VAR_B716_SD3_DOM_VARItem','GxObjectCollection' ],249).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

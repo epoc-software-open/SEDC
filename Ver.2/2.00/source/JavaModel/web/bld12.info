@@ -1,0 +1,13 @@
+generatorNumber=12
+modelNumber=4
+statePath=..\state\
+modelPath=..\..\
+compilePath=..\compile\
+destPath=C:\Program Files\Apache Software Foundation\Tomcat 6.0\webapps\tablet-EDC_GXXEV3U3Java\WEB-INF\classes\
+staticPath=C:\Program Files\Apache Software Foundation\Tomcat 6.0\webapps\tablet-EDC_GXXEV3U3Java\static\
+helpPath=Help/
+threeTierWeb=no
+threeTier=no
+webStaticFiles=calendar.js;calendar-setup.js;calendar-ja.js;calendar-system.css;messages.jap.js;gxdec.js;jquery.js;gxtimezone.js;gxgral.js;gxcfg.js;prompt.gif;collapse.gif;expand.gif;calendar-img.gif;prev.gif;next.gif;last.gif;indicator.gif;first.gif;desc.gif;asc.gif;delete_16x.jpg;blank.jpg;min.gif;max.gif;close.gif;resize.gif;container.css;autosuggest.css;download.gif;prgs.xsl;prompt.gif;transaction.gif;procedure.gif;report.gif;webpanel.gif;mbr.gif;DeveloperMenu.xml;gxtemplate.json;templates-helper.js
+additionalClasses=GXcfg;SoapParm;GxFullTextSearchReindexer
+additionalFiles=messages.jap.txt

@@ -1,0 +1,24 @@
+current_obj_i(4,proc,185).
+ 
+called_tree_i(1,185,1,3).
+called_tree_i(1,185,1,4).
+called_tree_i(1,185,1,5).
+called_tree_i(1,185,1,23).
+called_tree_i(1,185,1,58).
+called_tree_i(1,185,13,7).
+ 
+is_webproc_i(ab402_pc21_crf_def_csv_output).
+ 
+ij_main_object(ab402_pc21_crf_def_csv_output,'CRFíËã`çœCSVèoóÕ','','""','HTTP').
+ 
+ 
+ 
+ 
+ij_object_dependency(ab402_pc21_crf_def_csv_output,[ ab402_pc21_crf_def_csv_output__default ],[ ab402_pc21_crf_def_csv_output_impl ],[ 'GxWebStd','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','SdtA812_SD01_CSV_OUTPUT_A812_SD01_CSV_OUTPUTItem','StructSdtA812_SD01_CSV_OUTPUT_A812_SD01_CSV_OUTPUTItem','SdtB402_SD21_CRF_DEF_B402_SD21_CRF_DEFItem','StructSdtB402_SD21_CRF_DEF_B402_SD21_CRF_DEFItem','GxObjectCollection' ],185).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
