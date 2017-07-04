@@ -1,0 +1,24 @@
+current_obj_i(2,trn,4).
+ 
+called_tree_i(0,4,13,18).
+called_tree_i(0,4,1,1).
+called_tree_i(0,4,1,3).
+called_tree_i(0,4,1,4).
+called_tree_i(0,4,1,5).
+called_tree_i(0,4,1,6).
+called_tree_i(0,4,1,11).
+called_tree_i(0,4,0,4).
+called_tree_i(0,4,13,4).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tam06_msg,[ tam06_msg__default ],[ tam06_msg_impl ],[ 'GxWebStd','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','GxObjectCollection' ],4).
+ 
+ 
+ 
+ 
+ 
+ 

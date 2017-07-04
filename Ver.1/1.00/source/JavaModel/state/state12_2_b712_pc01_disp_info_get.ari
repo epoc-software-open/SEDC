@@ -1,0 +1,15 @@
+current_obj_i(2,proc,226).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b712_pc01_disp_info_get,[ b712_pc01_disp_info_get__default ],[],[ 'SdtB712_SD07_INPUT_DISP_B712_SD07_INPUT_DISPItem','StructSdtB712_SD07_INPUT_DISP_B712_SD07_INPUT_DISPItem','SdtB712_SD08_ICON_INFO_B712_SD08_ICON_INFOItem','StructSdtB712_SD08_ICON_INFO_B712_SD08_ICON_INFOItem','GxObjectCollection' ],226).
+ 
+ 
+ 
+ 
+ 
+ 

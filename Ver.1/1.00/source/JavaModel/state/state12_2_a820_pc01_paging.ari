@@ -1,0 +1,15 @@
+current_obj_i(2,proc,55).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(a820_pc01_paging,[],[],[ 'SdtA_PAGING_SDT','StructSdtA_PAGING_SDT','GxObjectCollection' ],55).
+ 
+ 
+ 
+ 
+ 
+ 

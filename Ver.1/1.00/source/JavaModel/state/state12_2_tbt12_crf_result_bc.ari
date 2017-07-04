@@ -1,0 +1,18 @@
+current_obj_i(2,trn,27).
+ 
+called_tree_i(0,27,1,1).
+called_tree_i(0,27,1,3).
+called_tree_i(0,27,13,4).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbt12_crf_result_bc,[ tbt12_crf_result_bc__default ],[],[ 'GxWebStd','SdtTBT12_CRF_RESULT','StructSdtTBT12_CRF_RESULT','SdtMessages_Message','StructSdtMessages_Message','GxObjectCollection','GxSilentTrnGridCollection' ],27).
+ 
+ 
+ 
+ 
+ 
+ 

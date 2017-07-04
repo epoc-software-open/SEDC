@@ -1,0 +1,22 @@
+current_obj_i(2,proc,114).
+ 
+called_tree_i(1,114,1,3).
+called_tree_i(1,114,1,66).
+called_tree_i(1,114,1,79).
+called_tree_i(1,114,1,80).
+called_tree_i(1,114,1,81).
+ 
+is_webproc_i(ab501_pc01_login).
+ 
+ij_main_object(ab501_pc01_login,ÉçÉOÉCÉìîFèÿ,'','""','HTTP').
+ 
+ 
+ 
+ 
+ij_object_dependency(ab501_pc01_login,[ ab501_pc01_login__default ],[ ab501_pc01_login_impl ],[ 'GxWebStd','SdtB808_SD01_EXTRA_INFO','StructSdtB808_SD01_EXTRA_INFO','SdtB808_SD01_EXTRA_INFO_PARMSItem','StructSdtB808_SD01_EXTRA_INFO_PARMSItem','GxObjectCollection' ],114).
+ 
+ 
+ 
+ 
+ 
+ 

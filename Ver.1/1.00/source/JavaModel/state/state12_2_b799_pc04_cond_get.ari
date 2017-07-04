@@ -1,0 +1,16 @@
+current_obj_i(2,proc,214).
+ 
+called_tree_i(1,214,1,96).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b799_pc04_cond_get,[],[],[ 'SdtB705_SD04_EXPRESSION_B705_SD04_EXPRESSIONItem','StructSdtB705_SD04_EXPRESSION_B705_SD04_EXPRESSIONItem','SdtB402_SD04_ITEM_DIV','StructSdtB402_SD04_ITEM_DIV','GxObjectCollection' ],214).
+ 
+ 
+ 
+ 
+ 
+ 

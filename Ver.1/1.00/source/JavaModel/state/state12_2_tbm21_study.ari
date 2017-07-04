@@ -1,0 +1,22 @@
+current_obj_i(2,trn,16).
+ 
+called_tree_i(0,16,1,1).
+called_tree_i(0,16,1,3).
+called_tree_i(0,16,1,8).
+called_tree_i(0,16,1,9).
+called_tree_i(0,16,1,10).
+called_tree_i(0,16,13,4).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbm21_study,[ tbm21_study__default ],[ tbm21_study_impl ],[ 'GxWebStd' ],16).
+ 
+ 
+ 
+ 
+has_silent_trn_i(tbm21_study_bc).
+ 
+ 

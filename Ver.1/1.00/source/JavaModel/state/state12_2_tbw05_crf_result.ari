@@ -1,0 +1,18 @@
+current_obj_i(2,trn,44).
+ 
+called_tree_i(0,44,1,3).
+called_tree_i(0,44,13,4).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbw05_crf_result,[ tbw05_crf_result__default ],[ tbw05_crf_result_impl ],[ 'GxWebStd' ],44).
+ 
+ 
+ 
+ 
+has_silent_trn_i(tbw05_crf_result_bc).
+ 
+ 

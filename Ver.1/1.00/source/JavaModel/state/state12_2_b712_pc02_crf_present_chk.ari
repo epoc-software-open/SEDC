@@ -1,0 +1,17 @@
+current_obj_i(2,proc,227).
+ 
+called_tree_i(1,227,1,52).
+called_tree_i(1,227,1,212).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b712_pc02_crf_present_chk,[ b712_pc02_crf_present_chk__default ],[],[ 'SdtB705_SD01_ERRCHK_RES','StructSdtB705_SD01_ERRCHK_RES','SdtB705_SD02_ERRCHK_ITEM_B705_SD02_ERRCHK_ITEMItem','StructSdtB705_SD02_ERRCHK_ITEM_B705_SD02_ERRCHK_ITEMItem','SdtB792_SD01_CRF','StructSdtB792_SD01_CRF','SdtB792_SD02_CRF_RESULT_B792_SD02_CRF_RESULTItem','StructSdtB792_SD02_CRF_RESULT_B792_SD02_CRF_RESULTItem','GxObjectCollection' ],227).
+ 
+ 
+ 
+ 
+ 
+ 

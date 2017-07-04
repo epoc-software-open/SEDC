@@ -1,0 +1,15 @@
+current_obj_i(2,trn,50).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbw13_csv_record,[ tbw13_csv_record__default ],[ tbw13_csv_record_impl ],[ 'GxWebStd' ],50).
+ 
+ 
+ 
+ 
+ 
+ 

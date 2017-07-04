@@ -1,0 +1,21 @@
+current_obj_i(2,trn,37).
+ 
+called_tree_i(0,37,1,1).
+called_tree_i(0,37,1,3).
+called_tree_i(0,37,1,8).
+called_tree_i(0,37,1,9).
+called_tree_i(0,37,1,10).
+called_tree_i(0,37,13,4).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbm36_crf_select_bc,[ tbm36_crf_select_bc__default ],[],[ 'GxWebStd','SdtTBM36_CRF_SELECT','StructSdtTBM36_CRF_SELECT','SdtMessages_Message','StructSdtMessages_Message','GxObjectCollection','GxSilentTrnGridCollection' ],37).
+ 
+ 
+ 
+ 
+ 
+ 

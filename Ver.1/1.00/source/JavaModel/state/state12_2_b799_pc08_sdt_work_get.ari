@@ -1,0 +1,16 @@
+current_obj_i(2,proc,199).
+ 
+called_tree_i(1,199,1,9).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b799_pc08_sdt_work_get,[ b799_pc08_sdt_work_get__default ],[],[ 'SdtB792_SD01_CRF','StructSdtB792_SD01_CRF','SdtB792_SD02_CRF_RESULT_B792_SD02_CRF_RESULTItem','StructSdtB792_SD02_CRF_RESULT_B792_SD02_CRF_RESULTItem','GxObjectCollection' ],199).
+ 
+ 
+ 
+ 
+ 
+ 

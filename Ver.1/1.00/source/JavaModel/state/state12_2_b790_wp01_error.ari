@@ -1,0 +1,20 @@
+current_obj_i(2,web,7).
+ 
+called_tree_i(13,7,1,3).
+called_tree_i(13,7,1,52).
+called_tree_i(13,7,13,9).
+called_tree_i(13,7,13,12).
+called_tree_i(13,7,13,13).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b790_wp01_error,[],[ b790_wp01_error_impl ],[ 'GxWebStd','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','GxObjectCollection' ],7).
+ 
+ 
+ 
+ 
+ 
+ 

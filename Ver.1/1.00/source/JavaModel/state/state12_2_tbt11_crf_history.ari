@@ -1,0 +1,19 @@
+current_obj_i(2,trn,26).
+ 
+called_tree_i(0,26,1,1).
+called_tree_i(0,26,1,3).
+called_tree_i(0,26,13,4).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbt11_crf_history,[ tbt11_crf_history__default ],[ tbt11_crf_history_impl ],[ 'GxWebStd' ],26).
+ 
+ 
+ 
+ 
+has_silent_trn_i(tbt11_crf_history_bc).
+ 
+ 

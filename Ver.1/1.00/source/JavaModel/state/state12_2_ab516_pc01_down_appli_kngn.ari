@@ -1,0 +1,23 @@
+current_obj_i(2,proc,177).
+ 
+called_tree_i(1,177,1,3).
+called_tree_i(1,177,1,66).
+called_tree_i(1,177,1,79).
+called_tree_i(1,177,1,80).
+called_tree_i(1,177,1,81).
+called_tree_i(1,177,1,178).
+ 
+is_webproc_i(ab516_pc01_down_appli_kngn).
+ 
+ij_main_object(ab516_pc01_down_appli_kngn,アプリケーション権限マスタダウンロード,'','""','HTTP').
+ 
+ 
+ 
+ 
+ij_object_dependency(ab516_pc01_down_appli_kngn,[ ab516_pc01_down_appli_kngn__default ],[ ab516_pc01_down_appli_kngn_impl ],[ 'GxWebStd','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','SdtB808_SD01_EXTRA_INFO','StructSdtB808_SD01_EXTRA_INFO','SdtB808_SD01_EXTRA_INFO_PARMSItem','StructSdtB808_SD01_EXTRA_INFO_PARMSItem','GxObjectCollection' ],177).
+ 
+ 
+ 
+ 
+ 
+ 

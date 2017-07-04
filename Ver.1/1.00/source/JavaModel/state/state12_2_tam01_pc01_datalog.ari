@@ -1,0 +1,18 @@
+current_obj_i(2,proc,2).
+ 
+called_tree_i(1,2,1,8).
+called_tree_i(1,2,1,9).
+called_tree_i(1,2,1,10).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tam01_pc01_datalog,[],[],[ 'SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','GxObjectCollection' ],2).
+ 
+ 
+ 
+ 
+ 
+ 

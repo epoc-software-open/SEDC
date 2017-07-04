@@ -1,0 +1,16 @@
+current_obj_i(2,proc,41).
+ 
+called_tree_i(1,41,1,41).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(a816_pc01_get_file_list,[],[],[ 'SdtA816_SD01_FILE_LIST_A816_SD01_FILE_LISTItem','StructSdtA816_SD01_FILE_LIST_A816_SD01_FILE_LISTItem','GxObjectCollection' ],41).
+ 
+ 
+ 
+ 
+ 
+ 

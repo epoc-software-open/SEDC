@@ -1,0 +1,22 @@
+current_obj_i(2,trn,36).
+ 
+called_tree_i(0,36,1,1).
+called_tree_i(0,36,1,3).
+called_tree_i(0,36,1,8).
+called_tree_i(0,36,1,9).
+called_tree_i(0,36,1,10).
+called_tree_i(0,36,13,4).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbm35_crf_item_auth,[ tbm35_crf_item_auth__default ],[ tbm35_crf_item_auth_impl ],[ 'GxWebStd' ],36).
+ 
+ 
+ 
+ 
+has_silent_trn_i(tbm35_crf_item_auth_bc).
+ 
+ 

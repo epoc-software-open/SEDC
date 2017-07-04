@@ -1,0 +1,17 @@
+current_obj_i(2,proc,216).
+ 
+called_tree_i(1,216,1,4).
+called_tree_i(1,216,1,206).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b799_pc05_input_level_get,[ b799_pc05_input_level_get__default ],[],[],216).
+ 
+ 
+ 
+ 
+ 
+ 

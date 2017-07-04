@@ -1,0 +1,25 @@
+current_obj_i(2,web,42).
+ 
+called_tree_i(13,42,1,3).
+called_tree_i(13,42,1,4).
+called_tree_i(13,42,1,5).
+called_tree_i(13,42,1,6).
+called_tree_i(13,42,1,44).
+called_tree_i(13,42,1,183).
+called_tree_i(13,42,13,4).
+called_tree_i(13,42,13,8).
+called_tree_i(13,42,13,9).
+called_tree_i(13,42,13,34).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b402_wp10_crf_ref_crt,[ b402_wp10_crf_ref_crt__default ],[ b402_wp10_crf_ref_crt_impl ],[ 'GxWebStd','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','GxObjectCollection' ],42).
+ 
+ 
+ 
+ 
+ 
+ 

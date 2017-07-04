@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<?xml-stylesheet type="text/xsl" href="prgs.xsl"?>
+<Objects>
+   <Charset>shift_jis</Charset>
+   <Path>file:///C:/Program Files (x86)/Artech/GeneXus/GeneXusXEv1/</Path>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>A101_WP01_LOGIN</ObjName>
+      <ObjDesc>ログイン</ObjDesc>
+      <ObjLink>http://localhost:8080/SmartEDC_SHIZUOKAJavaEnvironment/servlet/a101_wp01_login</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>B710_WP01_LOGIN</ObjName>
+      <ObjDesc>ログイン</ObjDesc>
+      <ObjLink>http://localhost:8080/SmartEDC_SHIZUOKAJavaEnvironment/servlet/b710_wp01_login</ObjLink>
+   </Object>
+</Objects>

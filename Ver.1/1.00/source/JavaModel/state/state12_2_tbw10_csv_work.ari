@@ -1,0 +1,17 @@
+current_obj_i(2,trn,47).
+ 
+called_tree_i(0,47,1,3).
+called_tree_i(0,47,13,4).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbw10_csv_work,[ tbw10_csv_work__default ],[ tbw10_csv_work_impl ],[ 'GxWebStd' ],47).
+ 
+ 
+ 
+ 
+ 
+ 

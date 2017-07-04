@@ -1,0 +1,22 @@
+current_obj_i(2,trn,55).
+ 
+called_tree_i(0,55,1,1).
+called_tree_i(0,55,1,3).
+called_tree_i(0,55,1,8).
+called_tree_i(0,55,1,9).
+called_tree_i(0,55,1,10).
+called_tree_i(0,55,13,4).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbm43_study_cdisc_item,[ tbm43_study_cdisc_item__default ],[ tbm43_study_cdisc_item_impl ],[ 'GxWebStd' ],55).
+ 
+ 
+ 
+ 
+has_silent_trn_i(tbm43_study_cdisc_item_bc).
+ 
+ 

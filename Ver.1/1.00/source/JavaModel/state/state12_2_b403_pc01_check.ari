@@ -1,0 +1,20 @@
+current_obj_i(2,proc,190).
+ 
+called_tree_i(1,190,1,3).
+called_tree_i(1,190,1,4).
+called_tree_i(1,190,1,96).
+called_tree_i(1,190,1,127).
+called_tree_i(1,190,13,4).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b403_pc01_check,[ b403_pc01_check__default ],[],[ 'SdtB402_SD04_ITEM_DIV','StructSdtB402_SD04_ITEM_DIV','SdtB602_SD03_META_LIST','StructSdtB602_SD03_META_LIST','SdtB602_SD03_META_LIST_RESULT','StructSdtB602_SD03_META_LIST_RESULT','SdtB602_SD03_META_LIST_META_DATAItem','StructSdtB602_SD03_META_LIST_META_DATAItem','GxObjectCollection' ],190).
+ 
+ 
+ 
+ 
+ 
+ 

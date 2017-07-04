@@ -1,0 +1,18 @@
+current_obj_i(2,proc,194).
+ 
+called_tree_i(1,194,13,6).
+ 
+is_webproc_i(ab103_pc02_error).
+ 
+ij_main_object(ab103_pc02_error,エラー処理（DB停止中）,'','""','HTTP').
+ 
+ 
+ 
+ 
+ij_object_dependency(ab103_pc02_error,[],[ ab103_pc02_error_impl ],[ 'GxWebStd' ],194).
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,18 @@
+current_obj_i(2,trn,51).
+ 
+called_tree_i(0,51,1,1).
+called_tree_i(0,51,1,3).
+called_tree_i(0,51,13,4).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbt16_import_history_bc,[ tbt16_import_history_bc__default ],[],[ 'GxWebStd','SdtTBT16_IMPORT_HISTORY','StructSdtTBT16_IMPORT_HISTORY','SdtMessages_Message','StructSdtMessages_Message','GxObjectCollection','GxSilentTrnGridCollection' ],51).
+ 
+ 
+ 
+ 
+ 
+ 

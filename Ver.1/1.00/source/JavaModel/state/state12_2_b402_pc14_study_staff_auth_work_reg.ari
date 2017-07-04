@@ -1,0 +1,20 @@
+current_obj_i(2,proc,146).
+ 
+called_tree_i(1,146,1,3).
+called_tree_i(1,146,1,4).
+called_tree_i(1,146,1,5).
+called_tree_i(1,146,1,142).
+called_tree_i(1,146,13,4).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b402_pc14_study_staff_auth_work_reg,[ b402_pc14_study_staff_auth_work_reg__default ],[],[ 'SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','SdtB402_SD02_STUDY_STAFF','StructSdtB402_SD02_STUDY_STAFF','SdtB402_SD03_STUDY_STAFF_AUTH','StructSdtB402_SD03_STUDY_STAFF_AUTH','GxObjectCollection' ],146).
+ 
+ 
+ 
+ 
+ 
+ 

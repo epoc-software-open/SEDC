@@ -1,0 +1,19 @@
+current_obj_i(2,proc,210).
+ 
+called_tree_i(1,210,1,3).
+called_tree_i(1,210,1,5).
+ 
+is_webproc_i(ab704_pc01_set_crf_val).
+ 
+ij_main_object(ab704_pc01_set_crf_val,'CRFì¸óÕÉfÅ[É^ï€ë∂èàóù','','""','HTTP').
+ 
+ 
+ 
+ 
+ij_object_dependency(ab704_pc01_set_crf_val,[],[ ab704_pc01_set_crf_val_impl ],[ 'GxWebStd','SdtB704_SD01_CRF_VAL_RTN','StructSdtB704_SD01_CRF_VAL_RTN','SdtB792_SD01_CRF','StructSdtB792_SD01_CRF','SdtB792_SD02_CRF_RESULT_B792_SD02_CRF_RESULTItem','StructSdtB792_SD02_CRF_RESULT_B792_SD02_CRF_RESULTItem','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','SdtB792_SD00_HTML5_EXEC_INFO','StructSdtB792_SD00_HTML5_EXEC_INFO','SdtB792_SD03_OL_DISP_INFO_B792_SD03_OL_DISP_INFOItem','StructSdtB792_SD03_OL_DISP_INFO_B792_SD03_OL_DISP_INFOItem','GxObjectCollection' ],210).
+ 
+ 
+ 
+ 
+ 
+ 

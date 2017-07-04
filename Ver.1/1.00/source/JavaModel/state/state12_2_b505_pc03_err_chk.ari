@@ -1,0 +1,17 @@
+current_obj_i(2,proc,120).
+ 
+called_tree_i(1,120,1,3).
+called_tree_i(1,120,1,4).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b505_pc03_err_chk,[ b505_pc03_err_chk__default ],[],[],120).
+ 
+ 
+ 
+ 
+ 
+ 

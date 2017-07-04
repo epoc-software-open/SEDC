@@ -1,0 +1,17 @@
+current_obj_i(2,proc,171).
+ 
+called_tree_i(1,171,1,3).
+called_tree_i(1,171,1,4).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b514_pc03_delete_work,[ b514_pc03_delete_work__default ],[],[],171).
+ 
+ 
+ 
+ 
+ 
+ 

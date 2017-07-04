@@ -1,0 +1,21 @@
+current_obj_i(2,trn,54).
+ 
+called_tree_i(0,54,1,1).
+called_tree_i(0,54,1,3).
+called_tree_i(0,54,1,8).
+called_tree_i(0,54,1,9).
+called_tree_i(0,54,1,10).
+called_tree_i(0,54,13,4).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbm42_study_cdisc_domain_bc,[ tbm42_study_cdisc_domain_bc__default ],[],[ 'GxWebStd','SdtTBM42_STUDY_CDISC_DOMAIN','StructSdtTBM42_STUDY_CDISC_DOMAIN','SdtMessages_Message','StructSdtMessages_Message','GxObjectCollection','GxSilentTrnGridCollection' ],54).
+ 
+ 
+ 
+ 
+ 
+ 

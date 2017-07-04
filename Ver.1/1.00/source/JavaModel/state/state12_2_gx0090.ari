@@ -1,0 +1,16 @@
+current_obj_i(2,web,23).
+ 
+called_tree_i(13,23,13,3).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(gx0090,[ gx0090__default ],[ gx0090_impl ],[ 'GxWebStd' ],23).
+ 
+ 
+ 
+ 
+ 
+ 

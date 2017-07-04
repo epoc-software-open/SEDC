@@ -1,0 +1,15 @@
+current_obj_i(2,proc,0).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b719_pc02_edit_memo_csv,[],[],[ 'SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','SdtA812_SD01_CSV_OUTPUT_A812_SD01_CSV_OUTPUTItem','StructSdtA812_SD01_CSV_OUTPUT_A812_SD01_CSV_OUTPUTItem','GxObjectCollection' ],0).
+ 
+ 
+ 
+ 
+ 
+ 

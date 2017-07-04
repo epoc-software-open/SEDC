@@ -1,0 +1,15 @@
+current_obj_i(2,trn,53).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbw14_crf_sdt_work,[ tbw14_crf_sdt_work__default ],[ tbw14_crf_sdt_work_impl ],[ 'GxWebStd' ],53).
+ 
+ 
+ 
+ 
+ 
+ 

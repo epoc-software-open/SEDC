@@ -1,0 +1,20 @@
+current_obj_i(2,web,15).
+ 
+called_tree_i(13,15,1,3).
+called_tree_i(13,15,1,5).
+called_tree_i(13,15,1,6).
+called_tree_i(13,15,13,3).
+called_tree_i(13,15,13,4).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(gx0060,[ gx0060__default ],[ gx0060_impl ],[ 'GxWebStd','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','GxObjectCollection' ],15).
+ 
+ 
+ 
+ 
+ 
+ 
