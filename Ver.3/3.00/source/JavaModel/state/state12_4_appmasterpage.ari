@@ -1,0 +1,17 @@
+current_obj_i(4,web,1).
+ 
+called_tree_i(13,1,13,2).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(appmasterpage,[],[ appmasterpage_impl ],[ 'GxWebStd' ],1).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

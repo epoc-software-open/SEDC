@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="903ff573-7963-4c79-a0f6-847e80509775">
+  <Table name="TAS01_CDNM" />
+  <Table name="TAM06_MSG" />
+</Dependencies>

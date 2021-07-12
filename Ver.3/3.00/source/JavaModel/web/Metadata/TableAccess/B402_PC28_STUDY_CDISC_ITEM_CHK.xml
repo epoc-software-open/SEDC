@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="7e98c24c-6e68-431a-b870-f6201ed233aa">
+  <Table name="TAM06_MSG" />
+  <Table name="TBM43_STUDY_CDISC_ITEM" />
+</Dependencies>

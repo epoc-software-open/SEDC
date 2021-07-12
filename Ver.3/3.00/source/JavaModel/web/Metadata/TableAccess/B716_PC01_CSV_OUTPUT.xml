@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="7b671d50-ba2a-4574-98a0-05d6781b0f0e">
+  <Table name="TBW13_CSV_RECORD" />
+  <Table name="TBW11_COND_WORK" />
+  <Table name="TBW10_CSV_WORK" />
+  <Table name="TBW15_TBM37REFMIN" />
+  <Table name="TBW16_DOM_MAP_VISIT" />
+  <Table name="TAM06_MSG" />
+  <Table name="TBM01_SYSTEM" />
+  <Table name="TBM31_CRF" />
+  <Table name="TBM32_CRF_ITEM" />
+  <Table name="TBM37_CRF_DOM_MAP" />
+  <Table name="TBM43_STUDY_CDISC_ITEM" />
+  <Table name="TBM44_CRF_VISIT" />
+</Dependencies>

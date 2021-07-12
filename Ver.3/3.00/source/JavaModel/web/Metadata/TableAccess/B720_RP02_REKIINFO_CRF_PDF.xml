@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="4c0cee6f-4d76-4108-abf9-592b4ecca91f">
+  <Table name="TAM07_USER" />
+  <Table name="TAM08_SITE" />
+  <Table name="TBM21_STUDY" />
+  <Table name="TBM31_CRF" />
+  <Table name="TBT01_SUBJECT" />
+  <Table name="TBT11_CRF_HISTORY" />
+  <Table name="TBM44_CRF_VISIT" />
+</Dependencies>

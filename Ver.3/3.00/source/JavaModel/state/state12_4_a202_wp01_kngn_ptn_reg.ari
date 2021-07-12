@@ -1,0 +1,27 @@
+current_obj_i(4,web,27).
+ 
+called_tree_i(13,27,1,3).
+called_tree_i(13,27,1,4).
+called_tree_i(13,27,1,5).
+called_tree_i(13,27,1,6).
+called_tree_i(13,27,1,27).
+called_tree_i(13,27,1,44).
+called_tree_i(13,27,1000,12).
+called_tree_i(13,27,13,7).
+called_tree_i(13,27,13,10).
+called_tree_i(13,27,13,11).
+called_tree_i(13,27,13,25).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(a202_wp01_kngn_ptn_reg,[ a202_wp01_kngn_ptn_reg__default ],[ a202_wp01_kngn_ptn_reg_impl ],[ 'GxWebStd','SdtA202_SD01_APPLI_KNGN_LIST_A202_SD01_APPLI_KNGN_LISTItem','StructSdtA202_SD01_APPLI_KNGN_LIST_A202_SD01_APPLI_KNGN_LISTItem','SdtTAM04BC_KNGN','StructSdtTAM04BC_KNGN','SdtTAM04BC_KNGN_TAM05_APPLI','StructSdtTAM04BC_KNGN_TAM05_APPLI','SdtMessages_Message','StructSdtMessages_Message','SdtA_PAGING_SDT','StructSdtA_PAGING_SDT','SdtA_CHK_RESULT_SDT_A_CHK_RESULT_SDTItem','StructSdtA_CHK_RESULT_SDT_A_CHK_RESULT_SDTItem','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','SdtA_USER_STUDY_SDT','StructSdtA_USER_STUDY_SDT','SdtA_RESULT_MSG_SDT_A_RESULT_MSG_SDTItem','StructSdtA_RESULT_MSG_SDT_A_RESULT_MSG_SDTItem','GxObjectCollection' ],27).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

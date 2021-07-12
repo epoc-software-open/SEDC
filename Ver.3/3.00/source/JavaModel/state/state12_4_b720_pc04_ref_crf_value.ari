@@ -1,0 +1,18 @@
+current_obj_i(4,proc,259).
+ 
+called_tree_i(1,259,1,223).
+called_tree_i(1,259,1,260).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b720_pc04_ref_crf_value,[ b720_pc04_ref_crf_value__default ],[],[],259).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

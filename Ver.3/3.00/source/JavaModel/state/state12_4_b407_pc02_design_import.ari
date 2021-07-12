@@ -1,0 +1,23 @@
+current_obj_i(4,proc,266).
+ 
+called_tree_i(1,266,1,1).
+called_tree_i(1,266,1,4).
+called_tree_i(1,266,1,5).
+called_tree_i(1,266,1,80).
+called_tree_i(1,266,1,267).
+called_tree_i(1,266,1,269).
+called_tree_i(1,266,13,7).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b407_pc02_design_import,[ b407_pc02_design_import__default ],[],[ 'SdtB407_SD01_IMPORT_LIST_B407_SD01_IMPORT_LISTItem','StructSdtB407_SD01_IMPORT_LIST_B407_SD01_IMPORT_LISTItem','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','SdtA_USER_STUDY_SDT','StructSdtA_USER_STUDY_SDT','SdtB808_SD01_EXTRA_INFO','StructSdtB808_SD01_EXTRA_INFO','SdtB808_SD01_EXTRA_INFO_PARMSItem','StructSdtB808_SD01_EXTRA_INFO_PARMSItem','GxObjectCollection' ],266).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

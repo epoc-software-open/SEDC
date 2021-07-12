@@ -1,0 +1,19 @@
+current_obj_i(4,proc,54).
+ 
+called_tree_i(1,54,1,4).
+called_tree_i(1,54,1,31).
+called_tree_i(1,54,1,37).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(a823_pc01_data_tyep_check,[],[],[ 'SdtA_CHK_INFO_SDT_A_CHK_INFO_SDTItem','StructSdtA_CHK_INFO_SDT_A_CHK_INFO_SDTItem','GxObjectCollection' ],54).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

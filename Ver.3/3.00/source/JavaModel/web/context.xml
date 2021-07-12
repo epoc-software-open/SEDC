@@ -1,0 +1,4 @@
+<Context reloadable="true" privileged="true">
+    <WatchedResource>WEB-INF/web.xml</WatchedResource>
+    <JarScanner className="com.genexus.webpanels.GXJarScanner"/>
+</Context>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="e39c1b04-0343-4f79-92b0-30e02d3848d6">
+  <Table name="TAM04_KNGN" />
+  <Table name="TBM32_CRF_ITEM" />
+  <Table name="TBM37_CRF_DOM_MAP" />
+  <Table name="TBT14_CRF_MEMO" />
+  <Table name="TBT15_CRF_MEMO_LOC" />
+  <Table name="TBM26_SEL_LIST_ITEM" />
+  <Table name="TBM35_CRF_ITEM_AUTH" />
+  <Table name="TBT02_CRF" />
+  <Table name="TBT11_CRF_HISTORY" />
+  <Table name="TBT12_CRF_RESULT" />
+  <Table name="TBT13_CRF_RES_HIS" />
+  <Table name="TAM06_MSG" />
+  <Table name="TBM01_SYSTEM" />
+  <Table name="TBW14_CRF_SDT_WORK" />
+  <Table name="TAM07_USER" />
+  <Table name="TBM21_STUDY" />
+  <Table name="TBM31_CRF" />
+  <Table name="TBT01_SUBJECT" />
+  <Table name="TBM08_AUTH_INP_LVL" />
+  <Table name="TBM44_CRF_VISIT" />
+  <Table name="TBM11_IMAGE" />
+</Dependencies>

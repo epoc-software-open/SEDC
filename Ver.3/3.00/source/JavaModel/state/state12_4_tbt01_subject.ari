@@ -1,0 +1,21 @@
+current_obj_i(4,trn,24).
+ 
+called_tree_i(0,24,1,1).
+called_tree_i(0,24,1,3).
+called_tree_i(0,24,13,1).
+called_tree_i(0,24,13,7).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbt01_subject,[ tbt01_subject__default ],[ tbt01_subject_impl ],[ 'GxWebStd' ],24).
+ 
+ 
+ 
+ 
+has_silent_trn_i(tbt01_subject_bc).
+ 
+ 
+ 

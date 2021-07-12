@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="c7b278fa-5862-49f3-aa53-50de4d2f6d47">
+  <Table name="TBM31_CRF" />
+  <Table name="TBM32_CRF_ITEM" />
+  <Table name="TBM37_CRF_DOM_MAP" />
+  <Table name="TBM43_STUDY_CDISC_ITEM" />
+  <Table name="TBM44_CRF_VISIT" />
+</Dependencies>

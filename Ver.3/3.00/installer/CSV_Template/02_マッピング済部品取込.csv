@@ -1,0 +1,5 @@
+ドメインコード,ドメイン変数名,ドメイン内項目グループOID,ドメイン内項目グループ内連番,項目グループ行番号,CRF項目名,CRF項目区分名,識別・選択リストコード,テキスト文字数,テキスト行数,小数点以下桁数,表示テキスト,固定値,固定値(OFF),必須入力フラグ,入力下限値,入力上限値
+DM,INVID,0,1,1,Investigator Identifier,TextArea,,,1,,INVID,,,1,,
+DM,BRTHDTC,0,1,1,Date/Time of Birth,DateGroup,3&4&5,,1,,BRTHDTC,,,0,,
+DM,AGE,0,1,1,Age,NumericTextBox,,3,,0,,,,0,20,150
+DM,SEX,0,1,1,Sex,RadioGroup,1,,1,,SEX,,,0,,

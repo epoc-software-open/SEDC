@@ -1,0 +1,19 @@
+current_obj_i(4,proc,260).
+ 
+called_tree_i(1,260,1,3).
+called_tree_i(1,260,1,223).
+called_tree_i(1,260,13,9).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b720_pc05_ref_crf_value,[ b720_pc05_ref_crf_value__default ],[],[],260).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

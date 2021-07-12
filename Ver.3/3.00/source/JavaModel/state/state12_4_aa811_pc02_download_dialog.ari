@@ -1,0 +1,18 @@
+current_obj_i(4,proc,215).
+ 
+ 
+is_webproc_i(aa811_pc02_download_dialog).
+ 
+ij_main_object(aa811_pc02_download_dialog,ダウンロードダイアログ表示処理（実ファイル名指定）,'','""','HTTP').
+ 
+ 
+ 
+ 
+ij_object_dependency(aa811_pc02_download_dialog,[],[ aa811_pc02_download_dialog_impl ],[ 'GxWebStd' ],215).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

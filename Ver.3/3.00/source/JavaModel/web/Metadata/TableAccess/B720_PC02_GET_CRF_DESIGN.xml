@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="7f59a400-eb93-4f01-9a29-fa02eba96fc6">
+  <Table name="TBM32_CRF_ITEM" />
+  <Table name="TBM35_CRF_ITEM_AUTH" />
+  <Table name="TBM11_IMAGE" />
+</Dependencies>

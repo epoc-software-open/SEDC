@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="99b0151a-8bcb-4bb3-b989-9b2a225ce49c">
+  <Table name="TAS01_CDNM" />
+  <Table name="TBM32_CRF_ITEM" />
+  <Table name="TBT12_CRF_RESULT" />
+  <Table name="TAM06_MSG" />
+  <Table name="TBM01_SYSTEM" />
+</Dependencies>

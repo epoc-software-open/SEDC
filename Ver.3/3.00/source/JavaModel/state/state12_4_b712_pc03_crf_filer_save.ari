@@ -1,0 +1,17 @@
+current_obj_i(4,proc,251).
+ 
+called_tree_i(1,251,1,1).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b712_pc03_crf_filer_save,[ b712_pc03_crf_filer_save__default ],[],[ 'SdtC712_SD10_IN_CRF_ID_C712_SD10_IN_CRF_IDItem','StructSdtC712_SD10_IN_CRF_ID_C712_SD10_IN_CRF_IDItem','GxObjectCollection' ],251).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

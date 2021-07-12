@@ -1,0 +1,25 @@
+current_obj_i(4,web,93).
+ 
+called_tree_i(13,93,1,3).
+called_tree_i(13,93,1,4).
+called_tree_i(13,93,1,5).
+called_tree_i(13,93,1,6).
+called_tree_i(13,93,1,44).
+called_tree_i(13,93,1,270).
+called_tree_i(13,93,13,7).
+called_tree_i(13,93,13,10).
+called_tree_i(13,93,13,11).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(a214_wp01_send_mail_info,[ a214_wp01_send_mail_info__default ],[ a214_wp01_send_mail_info_impl ],[ 'GxWebStd','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','SdtA_USER_STUDY_SDT','StructSdtA_USER_STUDY_SDT','GxObjectCollection' ],93).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

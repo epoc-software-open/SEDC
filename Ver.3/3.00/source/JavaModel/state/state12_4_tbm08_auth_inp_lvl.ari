@@ -1,0 +1,17 @@
+current_obj_i(4,trn,52).
+ 
+called_tree_i(0,52,13,1).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbm08_auth_inp_lvl,[ tbm08_auth_inp_lvl__default ],[ tbm08_auth_inp_lvl_impl ],[ 'GxWebStd' ],52).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

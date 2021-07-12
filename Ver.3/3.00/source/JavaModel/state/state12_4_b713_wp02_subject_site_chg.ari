@@ -1,0 +1,24 @@
+current_obj_i(4,web,73).
+ 
+called_tree_i(13,73,1,3).
+called_tree_i(13,73,1,5).
+called_tree_i(13,73,1,44).
+called_tree_i(13,73,1,52).
+called_tree_i(13,73,1,132).
+called_tree_i(13,73,1000,24).
+called_tree_i(13,73,1000,25).
+called_tree_i(13,73,13,9).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b713_wp02_subject_site_chg,[ b713_wp02_subject_site_chg__default ],[ b713_wp02_subject_site_chg_impl ],[ 'GxWebStd','SdtTBT02_CRF','StructSdtTBT02_CRF','SdtMessages_Message','StructSdtMessages_Message','SdtTBT01_SUBJECT','StructSdtTBT01_SUBJECT','SdtA_PAGING_SDT','StructSdtA_PAGING_SDT','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','SdtA_USER_STUDY_SDT','StructSdtA_USER_STUDY_SDT','SdtB713_SD01_SUBJECT_SINK_LIST_B713_SD01_SUBJECT_SINK_LISTItem','StructSdtB713_SD01_SUBJECT_SINK_LIST_B713_SD01_SUBJECT_SINK_LISTItem','GxObjectCollection' ],73).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

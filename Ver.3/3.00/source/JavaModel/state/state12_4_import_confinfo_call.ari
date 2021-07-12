@@ -1,0 +1,17 @@
+current_obj_i(4,proc,0).
+ 
+called_tree_i(1,0,1,229).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(import_confinfo_call,[],[],[ 'Sdtimport_confinfo','StructSdtimport_confinfo','Sdtimport_confinfo_result_code','StructSdtimport_confinfo_result_code','GxObjectCollection' ],0).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

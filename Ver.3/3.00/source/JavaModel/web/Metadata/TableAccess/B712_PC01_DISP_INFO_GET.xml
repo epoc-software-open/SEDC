@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="715436a6-f926-4d64-b9d4-36ae418ba0a5">
+  <Table name="TAM04_KNGN" />
+  <Table name="TBM08_AUTH_INP_LVL" />
+</Dependencies>

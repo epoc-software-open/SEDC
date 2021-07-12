@@ -1,0 +1,24 @@
+current_obj_i(4,proc,263).
+ 
+called_tree_i(1,263,14,8).
+called_tree_i(1,263,1,3).
+called_tree_i(1,263,1,4).
+called_tree_i(1,263,1,5).
+called_tree_i(1,263,1,9).
+called_tree_i(1,263,1,23).
+called_tree_i(1,263,1,268).
+called_tree_i(1,263,13,7).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b406_pc01_design_export_csv,[ b406_pc01_design_export_csv__default ],[],[ 'SdtB406_SD01_EXPORT_LIST_B406_SD01_EXPORT_LISTItem','StructSdtB406_SD01_EXPORT_LIST_B406_SD01_EXPORT_LISTItem','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','SdtA_USER_STUDY_SDT','StructSdtA_USER_STUDY_SDT','SdtA812_SD01_CSV_OUTPUT_A812_SD01_CSV_OUTPUTItem','StructSdtA812_SD01_CSV_OUTPUT_A812_SD01_CSV_OUTPUTItem','SdtWeZipFile','StructSdtWeZipFile','GxObjectCollection' ],263).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="d62ba195-18a2-446f-b4e8-73cb852743b5">
+  <Table name="TAM07_USER" />
+  <Table name="TAM08_SITE" />
+  <Table name="TBM21_STUDY" />
+  <Table name="TBM31_CRF" />
+  <Table name="TBT02_CRF" />
+  <Table name="TBM44_CRF_VISIT" />
+  <Table name="TBM01_SYSTEM" />
+  <Table name="TBM32_CRF_ITEM" />
+  <Table name="TBM35_CRF_ITEM_AUTH" />
+  <Table name="TBM11_IMAGE" />
+  <Table name="TBT12_CRF_RESULT" />
+  <Table name="TBM26_SEL_LIST_ITEM" />
+</Dependencies>

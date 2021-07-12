@@ -1,0 +1,21 @@
+current_obj_i(4,web,57).
+ 
+called_tree_i(13,57,1,3).
+called_tree_i(13,57,1,5).
+called_tree_i(13,57,1,9).
+called_tree_i(13,57,1,55).
+called_tree_i(13,57,13,9).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b717_wp01_rekiinfo_crf,[ b717_wp01_rekiinfo_crf__default ],[ b717_wp01_rekiinfo_crf_impl ],[ 'GxWebStd','SdtA_PAGING_SDT','StructSdtA_PAGING_SDT','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','SdtA_USER_STUDY_SDT','StructSdtA_USER_STUDY_SDT','SdtB717_SD01_REKIINFO_CRF_LIST_B717_SD01_REKIINFO_CRF_LISTItem','StructSdtB717_SD01_REKIINFO_CRF_LIST_B717_SD01_REKIINFO_CRF_LISTItem','GxObjectCollection' ],57).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

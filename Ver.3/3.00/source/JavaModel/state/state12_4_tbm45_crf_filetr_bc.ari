@@ -1,0 +1,16 @@
+current_obj_i(4,trn,59).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbm45_crf_filetr_bc,[ tbm45_crf_filetr_bc__default ],[],[ 'GxWebStd','SdtTBM45_CRF_FILETR','StructSdtTBM45_CRF_FILETR','SdtMessages_Message','StructSdtMessages_Message','GxObjectCollection','GxSilentTrnGridCollection' ],59).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

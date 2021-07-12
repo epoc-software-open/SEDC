@@ -1,0 +1,3 @@
+gx.evt.autoSkip=!1;
+gx.define("promptmasterpage",!1,function(){this.ServerClass="promptmasterpage";this.PackageName="";this.setObjectType("web");this.IsMasterPage=true;this.setOnAjaxSessionTimeout("Warn");this.skipOnEnter=this.hasEnterEvent=false;this.autoRefresh=true;this.SetStandaloneVars=function(){};this.e14032_client=function(){this.executeServerEvent("ENTER_MPAGE",true)};this.e15032_client=function(){this.executeServerEvent("CANCEL_MPAGE",true)};this.GXValidFnc=[];this.GXLastCtrlId=0;this.Events={e14032_client:["ENTER_MPAGE",
+true],e15032_client:["CANCEL_MPAGE",true]};this.InitStandaloneVars()});gx.setMasterPage(new promptmasterpage);

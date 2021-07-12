@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="61b408fd-f85a-456b-a902-650fcfc8baa0">
+  <Table name="TBW12_CRF_ERR_MSG" />
+  <Table name="TAM06_MSG" />
+</Dependencies>
