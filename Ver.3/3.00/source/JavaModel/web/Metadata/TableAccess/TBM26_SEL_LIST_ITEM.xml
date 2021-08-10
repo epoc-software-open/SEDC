@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="e65b1316-0de6-4193-a109-4513798148b3">
+  <Table name="TBM25_SEL_LIST" />
+  <Table name="TBM26_SEL_LIST_ITEM" />
+</Dependencies>

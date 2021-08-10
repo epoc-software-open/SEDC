@@ -1,0 +1,19 @@
+current_obj_i(4,trn,42).
+ 
+called_tree_i(0,42,1,3).
+called_tree_i(0,42,13,1).
+called_tree_i(0,42,13,7).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbw03_crf_search_bc,[ tbw03_crf_search_bc__default ],[],[ 'GxWebStd','SdtTBW03_CRF_SEARCH','StructSdtTBW03_CRF_SEARCH','SdtMessages_Message','StructSdtMessages_Message','GxObjectCollection','GxSilentTrnGridCollection' ],42).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="48d864b0-173c-48cd-83ab-7659c06faba2">
+  <Table name="TAM07_USER" />
+  <Table name="TAM08_SITE" />
+  <Table name="TBM31_CRF" />
+  <Table name="TBW03_CRF_SEARCH" />
+</Dependencies>

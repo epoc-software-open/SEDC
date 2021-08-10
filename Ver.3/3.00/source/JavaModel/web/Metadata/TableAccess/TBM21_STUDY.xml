@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="b9a79405-feac-4fcd-8237-5f6d430274fb">
+  <Table name="TBM21_STUDY" />
+  <Table name="TBM22_STUDY_SITE" />
+  <Table name="TBM23_STUDY_STAFF" />
+  <Table name="TBM31_CRF" />
+  <Table name="TBM24_MAP_ITEM" />
+  <Table name="TBM25_SEL_LIST" />
+</Dependencies>

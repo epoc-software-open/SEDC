@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="b27bb21f-67b7-402e-aaad-a57cc41a8aed">
+  <Table name="TAM06_MSG" />
+  <Table name="TAM07_USER" />
+  <Table name="TBM32_CRF_ITEM" />
+  <Table name="TBM41_CRF_NCM_MAP" />
+  <Table name="TBM37_CRF_DOM_MAP" />
+  <Table name="TBM25_SEL_LIST" />
+</Dependencies>

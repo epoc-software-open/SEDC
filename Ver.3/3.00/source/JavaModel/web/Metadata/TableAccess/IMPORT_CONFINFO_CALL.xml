@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="a7b17f67-7045-4777-91c9-afc2672b4325">
+  <Table name="TAM06_MSG" />
+  <Table name="TAM08_SITE" />
+  <Table name="TBM32_CRF_ITEM" />
+  <Table name="TBM41_CRF_NCM_MAP" />
+  <Table name="TBT01_SUBJECT" />
+  <Table name="TBM26_SEL_LIST_ITEM" />
+  <Table name="TBM01_SYSTEM" />
+  <Table name="TBT14_CRF_MEMO" />
+  <Table name="TBT02_CRF" />
+  <Table name="TBT11_CRF_HISTORY" />
+  <Table name="TBT12_CRF_RESULT" />
+  <Table name="TBT13_CRF_RES_HIS" />
+</Dependencies>

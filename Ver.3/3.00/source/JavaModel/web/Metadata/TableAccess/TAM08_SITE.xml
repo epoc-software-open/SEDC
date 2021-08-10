@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="425a164e-5dd4-4bcf-bf72-e9ae33bfeed4">
+  <Table name="TAM08_SITE" />
+  <Table name="TBM22_STUDY_SITE" />
+  <Table name="TBW03_CRF_SEARCH" />
+</Dependencies>

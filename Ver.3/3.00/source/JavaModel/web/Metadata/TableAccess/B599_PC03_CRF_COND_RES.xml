@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="f5b79012-e559-4065-8bfd-538866789ea1">
+  <Table name="TBM33_CRF_COND" />
+  <Table name="TAM06_MSG" />
+</Dependencies>

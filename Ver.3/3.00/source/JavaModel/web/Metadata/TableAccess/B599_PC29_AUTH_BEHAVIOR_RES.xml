@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="b4093f00-baa0-475a-bd17-eb9294c29d96">
+  <Table name="TBM07_AUTH_BEHAVIOR" />
+  <Table name="TAM06_MSG" />
+</Dependencies>

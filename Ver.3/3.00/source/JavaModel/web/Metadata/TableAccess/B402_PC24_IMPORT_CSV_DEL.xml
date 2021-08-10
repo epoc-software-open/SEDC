@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="4a938a06-c637-4a1b-9e69-cd014de5d802">
+  <Table name="TBT16_IMPORT_HISTORY" />
+  <Table name="TAM06_MSG" />
+  <Table name="TBM01_SYSTEM" />
+</Dependencies>

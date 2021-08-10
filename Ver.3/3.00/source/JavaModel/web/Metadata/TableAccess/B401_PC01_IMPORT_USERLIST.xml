@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="4115c0ce-b3cf-4d5e-bb34-384477b3550e">
+  <Table name="TAM06_MSG" />
+  <Table name="TAM08_SITE" />
+  <Table name="TBM01_SYSTEM" />
+  <Table name="TAM04_KNGN" />
+  <Table name="TAM07_USER" />
+  <Table name="TBM23_STUDY_STAFF" />
+  <Table name="TBW03_CRF_SEARCH" />
+  <Table name="TBM22_STUDY_SITE" />
+</Dependencies>

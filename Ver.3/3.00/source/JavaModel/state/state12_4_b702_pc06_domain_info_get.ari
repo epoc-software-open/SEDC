@@ -1,0 +1,16 @@
+current_obj_i(4,proc,202).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b702_pc06_domain_info_get,[ b702_pc06_domain_info_get__default ],[],[ 'SdtB702_SD05_DOMAIN_INFO_B702_SD05_DOMAIN_INFOItem','StructSdtB702_SD05_DOMAIN_INFO_B702_SD05_DOMAIN_INFOItem','GxObjectCollection' ],202).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

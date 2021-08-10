@@ -1,0 +1,24 @@
+current_obj_i(4,trn,17).
+ 
+called_tree_i(0,17,1,1).
+called_tree_i(0,17,1,3).
+called_tree_i(0,17,1,8).
+called_tree_i(0,17,1,9).
+called_tree_i(0,17,1,10).
+called_tree_i(0,17,13,1).
+called_tree_i(0,17,13,7).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbm22_study_site,[ tbm22_study_site__default ],[ tbm22_study_site_impl ],[ 'GxWebStd' ],17).
+ 
+ 
+ 
+ 
+has_silent_trn_i(tbm22_study_site_bc).
+ 
+ 
+ 

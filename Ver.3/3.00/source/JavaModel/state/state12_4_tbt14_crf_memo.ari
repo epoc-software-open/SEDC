@@ -1,0 +1,20 @@
+current_obj_i(4,trn,28).
+ 
+called_tree_i(0,28,1,1).
+called_tree_i(0,28,1,3).
+called_tree_i(0,28,13,7).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbt14_crf_memo,[ tbt14_crf_memo__default ],[ tbt14_crf_memo_impl ],[ 'GxWebStd' ],28).
+ 
+ 
+ 
+ 
+has_silent_trn_i(tbt14_crf_memo_bc).
+ 
+ 
+ 

@@ -1,0 +1,22 @@
+current_obj_i(4,proc,192).
+ 
+called_tree_i(1,192,1,3).
+called_tree_i(1,192,1,4).
+called_tree_i(1,192,1,112).
+called_tree_i(1,192,1,129).
+ 
+is_webproc_i(ab401_pc01_import_userlist).
+ 
+ij_main_object(ab401_pc01_import_userlist,臨床試験支援システムユーザー一覧取込（リクエスト実行）,'','""','HTTP').
+ 
+ 
+ 
+ 
+ij_object_dependency(ab401_pc01_import_userlist,[],[ ab401_pc01_import_userlist_impl ],[ 'GxWebStd' ],192).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

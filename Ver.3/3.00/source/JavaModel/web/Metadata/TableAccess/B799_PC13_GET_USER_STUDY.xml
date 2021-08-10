@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="17bbd695-7556-4b26-831d-1ae371fd9ce3">
+  <Table name="TBM23_STUDY_STAFF" />
+  <Table name="TBM01_SYSTEM" />
+</Dependencies>

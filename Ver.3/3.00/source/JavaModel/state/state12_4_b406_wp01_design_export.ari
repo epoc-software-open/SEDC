@@ -1,0 +1,26 @@
+current_obj_i(4,web,91).
+ 
+called_tree_i(13,91,1,3).
+called_tree_i(13,91,1,4).
+called_tree_i(13,91,1,5).
+called_tree_i(13,91,1,6).
+called_tree_i(13,91,1,44).
+called_tree_i(13,91,1,55).
+called_tree_i(13,91,1,263).
+called_tree_i(13,91,13,7).
+called_tree_i(13,91,13,10).
+called_tree_i(13,91,13,11).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b406_wp01_design_export,[ b406_wp01_design_export__default ],[ b406_wp01_design_export_impl ],[ 'GxWebStd','SdtB406_SD01_EXPORT_LIST_B406_SD01_EXPORT_LISTItem','StructSdtB406_SD01_EXPORT_LIST_B406_SD01_EXPORT_LISTItem','SdtA_PAGING_SDT','StructSdtA_PAGING_SDT','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','SdtA_USER_STUDY_SDT','StructSdtA_USER_STUDY_SDT','GxObjectCollection' ],91).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

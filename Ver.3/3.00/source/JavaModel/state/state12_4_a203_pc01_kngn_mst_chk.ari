@@ -1,0 +1,21 @@
+current_obj_i(4,proc,64).
+ 
+called_tree_i(1,64,1,3).
+called_tree_i(1,64,1,5).
+called_tree_i(1,64,1,54).
+called_tree_i(1,64,1000,3).
+called_tree_i(1,64,13,7).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(a203_pc01_kngn_mst_chk,[],[],[ 'SdtMessages_Message','StructSdtMessages_Message','SdtA_CHK_RESULT_SDT_A_CHK_RESULT_SDTItem','StructSdtA_CHK_RESULT_SDT_A_CHK_RESULT_SDTItem','SdtA_RESULT_MSG_SDT_A_RESULT_MSG_SDTItem','StructSdtA_RESULT_MSG_SDT_A_RESULT_MSG_SDTItem','SdtTAM04_KNGN','StructSdtTAM04_KNGN','SdtA_CHK_INFO_SDT_A_CHK_INFO_SDTItem','StructSdtA_CHK_INFO_SDT_A_CHK_INFO_SDTItem','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','SdtA_USER_STUDY_SDT','StructSdtA_USER_STUDY_SDT','GxObjectCollection' ],64).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

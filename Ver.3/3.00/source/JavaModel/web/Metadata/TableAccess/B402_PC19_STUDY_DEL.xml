@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="377d2543-527d-4305-bcb6-93c8c5af3a0c">
+  <Table name="TBM22_STUDY_SITE" />
+  <Table name="TBM23_STUDY_STAFF" />
+  <Table name="TBM31_CRF" />
+  <Table name="TBM32_CRF_ITEM" />
+  <Table name="TBM33_CRF_COND" />
+  <Table name="TBM41_CRF_NCM_MAP" />
+  <Table name="TBM37_CRF_DOM_MAP" />
+  <Table name="TBT01_SUBJECT" />
+  <Table name="TBT14_CRF_MEMO" />
+  <Table name="TBT15_CRF_MEMO_LOC" />
+  <Table name="TBM11_IMAGE" />
+  <Table name="TBM24_MAP_ITEM" />
+  <Table name="TBM25_SEL_LIST" />
+  <Table name="TBM26_SEL_LIST_ITEM" />
+  <Table name="TBM34_CRF_AUTH" />
+  <Table name="TBM35_CRF_ITEM_AUTH" />
+  <Table name="TBM36_CRF_SELECT" />
+  <Table name="TBM42_STUDY_CDISC_DOMAIN" />
+  <Table name="TBM43_STUDY_CDISC_ITEM" />
+  <Table name="TBT02_CRF" />
+  <Table name="TBT11_CRF_HISTORY" />
+  <Table name="TBT12_CRF_RESULT" />
+  <Table name="TBT13_CRF_RES_HIS" />
+  <Table name="TBM44_CRF_VISIT" />
+  <Table name="TBM45_CRF_FILETR" />
+  <Table name="TAM06_MSG" />
+  <Table name="TBM21_STUDY" />
+</Dependencies>

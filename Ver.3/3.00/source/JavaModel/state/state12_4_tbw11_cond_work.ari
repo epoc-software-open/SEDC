@@ -1,0 +1,18 @@
+current_obj_i(4,trn,48).
+ 
+called_tree_i(0,48,1,3).
+called_tree_i(0,48,13,7).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbw11_cond_work,[ tbw11_cond_work__default ],[ tbw11_cond_work_impl ],[ 'GxWebStd' ],48).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

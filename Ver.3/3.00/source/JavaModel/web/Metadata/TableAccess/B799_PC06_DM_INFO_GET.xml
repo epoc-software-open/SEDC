@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="eefadf53-8312-46ed-a4b0-f1ff9d160341">
+  <Table name="TAM04_KNGN" />
+  <Table name="TBM01_SYSTEM" />
+</Dependencies>

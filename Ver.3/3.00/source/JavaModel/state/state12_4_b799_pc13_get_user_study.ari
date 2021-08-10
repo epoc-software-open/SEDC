@@ -1,0 +1,17 @@
+current_obj_i(4,proc,253).
+ 
+called_tree_i(1,253,1,122).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b799_pc13_get_user_study,[ b799_pc13_get_user_study__default ],[],[ 'SdtA_USER_STUDY_SDT','StructSdtA_USER_STUDY_SDT','GxObjectCollection' ],253).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,18 @@
+current_obj_i(4,web,90).
+ 
+called_tree_i(13,90,1,52).
+called_tree_i(13,90,1,112).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b712_wp05_crf_conf,[ b712_wp05_crf_conf__default ],[ b712_wp05_crf_conf_impl ],[ 'GxWebStd' ],90).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

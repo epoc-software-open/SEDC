@@ -1,0 +1,18 @@
+current_obj_i(4,proc,132).
+ 
+called_tree_i(1,132,1,4).
+called_tree_i(1,132,1,131).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b803_pc01_get_bcmsg,[],[],[ 'SdtMessages_Message','StructSdtMessages_Message','GxObjectCollection' ],132).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

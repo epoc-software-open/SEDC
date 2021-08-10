@@ -1,0 +1,17 @@
+current_obj_i(4,web,17).
+ 
+called_tree_i(13,17,1,4).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(a105_wp02_error,[],[ a105_wp02_error_impl ],[ 'GxWebStd' ],17).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

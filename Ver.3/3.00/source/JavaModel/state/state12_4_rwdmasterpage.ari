@@ -1,0 +1,17 @@
+current_obj_i(4,web,4).
+ 
+called_tree_i(13,4,13,5).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(rwdmasterpage,[],[ rwdmasterpage_impl ],[ 'GxWebStd' ],4).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="b27b2df2-df32-4e5c-a979-e408af66f671">
+  <Table name="TBT01_SUBJECT" />
+  <Table name="TBT02_CRF" />
+</Dependencies>

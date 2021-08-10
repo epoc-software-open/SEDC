@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="ed2fee1e-d291-466b-b583-a5a12ad65e73">
+  <Table name="TBM32_CRF_ITEM" />
+  <Table name="TBT13_CRF_RES_HIS" />
+  <Table name="TBM26_SEL_LIST_ITEM" />
+</Dependencies>

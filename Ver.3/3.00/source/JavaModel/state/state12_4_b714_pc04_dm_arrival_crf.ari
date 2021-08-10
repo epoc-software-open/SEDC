@@ -1,0 +1,27 @@
+current_obj_i(4,proc,218).
+ 
+called_tree_i(1,218,1,3).
+called_tree_i(1,218,1,5).
+called_tree_i(1,218,1,8).
+called_tree_i(1,218,1,10).
+called_tree_i(1,218,1,52).
+called_tree_i(1,218,1,132).
+called_tree_i(1,218,1,206).
+called_tree_i(1,218,1000,25).
+called_tree_i(1,218,1000,26).
+called_tree_i(1,218,1000,38).
+called_tree_i(1,218,13,9).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b714_pc04_dm_arrival_crf,[ b714_pc04_dm_arrival_crf__default ],[],[ 'SdtTBT02_CRF','StructSdtTBT02_CRF','SdtMessages_Message','StructSdtMessages_Message','SdtTBT11_CRF_HISTORY','StructSdtTBT11_CRF_HISTORY','SdtTBT13_CRF_RES_HIS','StructSdtTBT13_CRF_RES_HIS','SdtB714_SD1_CRF_INFO_B714_SD1_CRF_INFOItem','StructSdtB714_SD1_CRF_INFO_B714_SD1_CRF_INFOItem','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','SdtA_USER_STUDY_SDT','StructSdtA_USER_STUDY_SDT','GxObjectCollection' ],218).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,16 @@
+current_obj_i(4,web,2).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(recentlinks,[],[ recentlinks_impl ],[ 'GxWebStd','SdtLinkList_LinkItem','StructSdtLinkList_LinkItem','GxObjectCollection' ],2).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

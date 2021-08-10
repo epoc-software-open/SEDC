@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="421769a9-79f8-4d61-926c-f8916fb59d88">
+  <Table name="TAM08_SITE" />
+  <Table name="TBM22_STUDY_SITE" />
+  <Table name="TBW01_FREE_WORK" />
+  <Table name="TAM06_MSG" />
+</Dependencies>

@@ -1,0 +1,17 @@
+current_obj_i(4,web,82).
+ 
+called_tree_i(13,82,13,3).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tam05_sel,[ tam05_sel__default ],[ tam05_sel_impl ],[ 'GxWebStd' ],82).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

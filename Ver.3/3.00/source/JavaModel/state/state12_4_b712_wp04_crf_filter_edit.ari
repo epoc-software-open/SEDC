@@ -1,0 +1,25 @@
+current_obj_i(4,web,89).
+ 
+called_tree_i(13,89,1,3).
+called_tree_i(13,89,1,4).
+called_tree_i(13,89,1,5).
+called_tree_i(13,89,1,44).
+called_tree_i(13,89,1,251).
+called_tree_i(13,89,1000,24).
+called_tree_i(13,89,1000,25).
+called_tree_i(13,89,13,9).
+called_tree_i(13,89,13,86).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b712_wp04_crf_filter_edit,[ b712_wp04_crf_filter_edit__default ],[ b712_wp04_crf_filter_edit_impl ],[ 'GxWebStd','SdtTBT02_CRF','StructSdtTBT02_CRF','SdtMessages_Message','StructSdtMessages_Message','SdtTBT01_SUBJECT','StructSdtTBT01_SUBJECT','SdtA_PAGING_SDT','StructSdtA_PAGING_SDT','SdtC712_SD10_IN_CRF_ID_C712_SD10_IN_CRF_IDItem','StructSdtC712_SD10_IN_CRF_ID_C712_SD10_IN_CRF_IDItem','SdtA_LOGIN_SDT','StructSdtA_LOGIN_SDT','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem','SdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','StructSdtA801_SD01_SYS_CONFIG_A801_SD01_SYS_CONFIGItem_KEYItem','SdtA_USER_STUDY_SDT','StructSdtA_USER_STUDY_SDT','GxObjectCollection' ],89).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

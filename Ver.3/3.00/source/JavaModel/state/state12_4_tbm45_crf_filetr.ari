@@ -1,0 +1,17 @@
+current_obj_i(4,trn,59).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tbm45_crf_filetr,[ tbm45_crf_filetr__default ],[ tbm45_crf_filetr_impl ],[ 'GxWebStd' ],59).
+ 
+ 
+ 
+ 
+has_silent_trn_i(tbm45_crf_filetr_bc).
+ 
+ 
+ 

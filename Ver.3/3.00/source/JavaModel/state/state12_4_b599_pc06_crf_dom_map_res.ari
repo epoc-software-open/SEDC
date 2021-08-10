@@ -1,0 +1,20 @@
+current_obj_i(4,proc,73).
+ 
+called_tree_i(1,73,1,4).
+called_tree_i(1,73,1,9).
+called_tree_i(1,73,1,80).
+called_tree_i(1,73,1,135).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(b599_pc06_crf_dom_map_res,[ b599_pc06_crf_dom_map_res__default ],[],[ 'SdtB808_SD01_EXTRA_INFO','StructSdtB808_SD01_EXTRA_INFO','SdtB808_SD01_EXTRA_INFO_PARMSItem','StructSdtB808_SD01_EXTRA_INFO_PARMSItem','GxObjectCollection' ],73).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

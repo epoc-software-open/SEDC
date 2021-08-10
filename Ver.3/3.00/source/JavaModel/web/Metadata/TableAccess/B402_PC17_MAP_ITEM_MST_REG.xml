@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="02bd371c-a3d8-49dc-83ca-3ec152cb6423">
+  <Table name="TAS01_CDNM" />
+  <Table name="TBM03_CDISC_ITEM" />
+  <Table name="TBM11_IMAGE" />
+  <Table name="TBM24_MAP_ITEM" />
+  <Table name="TBM25_SEL_LIST" />
+  <Table name="TBM02_CDISC_DOMAIN" />
+  <Table name="TAM06_MSG" />
+  <Table name="TBM01_SYSTEM" />
+  <Table name="TBM21_STUDY" />
+</Dependencies>

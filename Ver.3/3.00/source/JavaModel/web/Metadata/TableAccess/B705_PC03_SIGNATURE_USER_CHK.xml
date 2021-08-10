@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="ac6f34e9-e617-4388-b41b-3381d969b0e7">
+  <Table name="TAS01_CDNM" />
+  <Table name="TAM07_USER" />
+  <Table name="TBM23_STUDY_STAFF" />
+  <Table name="TAM06_MSG" />
+</Dependencies>

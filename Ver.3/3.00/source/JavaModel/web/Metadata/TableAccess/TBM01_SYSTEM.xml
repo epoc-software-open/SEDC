@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="b8b82fe3-b7dd-40c4-9ec4-f24cfdae912f">
+  <Table name="TBM01_SYSTEM" />
+  <Table name="TAM06_MSG" />
+  <Table name="TAM04_KNGN" />
+  <Table name="TAM05_APPLI_KNGN" />
+</Dependencies>
